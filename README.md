@@ -1,11 +1,8 @@
 This is a demo for PennOS project. For confidential issue, we only provide the executables. Please get in contact if you need to see source code for interview purpose!
 
-## Team Member: 
-
-* Zhijun Zhuang
-* Keyan Zhai
-* Bowen Jiang
-* Wendi Zhang
+## Team Member
+Kernel: Zhijun Zhuang, Keyan Zhai
+File System: Bowen Jiang, Wendi Zhang
 
 ## Extra credit answers
 
